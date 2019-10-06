@@ -7,6 +7,14 @@
     android:background="@color/screenBackground"
     tools:context=".MainActivity">
 
+    <!-- This is the reference:
+    https://codelabs.developers.google.com/android-kotlin-fundamentals/
+    https://codelabs.developers.google.com/codelabs/kotlin-android-training-available-resources/#0
+
+    Bootcamp:
+    https://developer.android.com/courses/kotlin-bootcamp/overview
+    -->
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
@@ -65,5 +73,21 @@
         app:layout_constraintStart_toEndOf="@+id/toast_button"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.437" />
+
+    <Button
+        android:id="@+id/roller_redir_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/buttonBackground"
+        android:text="Roller"
+        android:onClick="rollerMe"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/count_button" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

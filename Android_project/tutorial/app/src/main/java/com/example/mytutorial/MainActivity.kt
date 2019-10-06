@@ -55,4 +55,9 @@ class MainActivity : AppCompatActivity() {
         // Start the new activity
         startActivity(randomIntent)
     }
+
+    fun rollerMe(view: View) {
+        val randomIntent = Intent(this, RollerActivity::class.java)
+        startActivity(randomIntent)
+    }
 }
