@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Aldie</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="droidy">Droidbug</string>
+    <string name="bio">How to catch cats
+        \n\nCats can become trap-shy \— frightened to go near or enter a trap, or trap-savvy \— mastered the art of removing food without triggering the trap. Don\’t be discouraged. The following are several straightforward techniques used to trap hard-to-trap-cats.
+        \n\nGET THE CATS USED TO EATING OUT OF THE TRAP
+        \n\nA short break can reduce a cat\’s fear of the trap. During this time, keep feeding that cat and others in un-set traps for about a week or more before trapping again. Feed the cats in the same place and time as always. Load the trap the opposite way you normally would, so that the food is in the front of the trap and the front door is closed, because you do not want the trap set. Take off the back door or tie it securely open. Place the food by the entrance of the trap, then inside, then over a period of days gradually move it closer to the back. Feed in the same place and time as always. Monitor the traps while the cats eat to ensure traps are not stolen or a cat is not accidentally trapped. The cat will see other cats eating inside the traps and will likely try it as well. When you are ready to trap again, withhold food for 24 hours.
+        \n\nTRY USING A LARGER SIZE TRAP
+        \n\nSome cats may be more comfortable entering a larger trap that has a taller opening and wider sides.
+        \n\nWITHHOLD FOOD FOR UP TO TWO DAYS
+        \n\nFor a particularly trap-savvy cat, you might consider withholding food for up to two days, but do not withhold food for any longer. Never withhold water.
+        \nAnd so on ...\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
